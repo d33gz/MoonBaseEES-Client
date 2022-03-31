@@ -1,0 +1,59 @@
+body {
+  background-image: url(images/wf0-background.png);
+}
+
+h1 {
+  font-size: 350%;
+}
+
+h2 {
+  font-size: 300%;
+}
+
+#content-box {
+  color: white;
+  font-family: Courier, monospace;
+}
+
+#landing-box {
+  background-color: black;
+  border-color: gray;
+  border-style: solid;
+  border-width: 12px;
+  margin-top: 10%;
+  margin-left: 30%;
+  margin-right: 30%;
+  align-content: center;
+  text-align: center;
+}
+
+#button-container {
+  background-color: black;
+  border-color: gray;
+  border-style: solid;
+  border-width: 6px;
+  margin-left: 40%;
+  margin-right: 40%;
+  padding-top: 1.5%;
+  padding-bottom: 1.5%;
+  text-align: center;
+}
+
+#enter-button, #login-button, #login-back-button {
+  background-color: black;
+  border-color: black;
+  color: white;
+  font-family: Courier, monospace;
+  font-size: 250%;
+  font-weight: bold;
+}
+
+#enter-button:hover {
+  font-size: 300%;
+  font-style: italic;
+}
+
+#enter-button:active {
+  color: black;
+  background-color: white;
+}
