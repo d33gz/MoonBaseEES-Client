@@ -1,0 +1,96 @@
+h3 {
+  font-size: 200%;
+}
+
+#content-title {
+  background-color: black;
+  border-color: gray;
+  border-style: solid;
+  border-width: 6px;
+  margin-top: 6%;
+  margin-left: 34%;
+  margin-right: 50%;
+  padding-left: 2%;
+}
+
+#check-box {
+  display: inline-block;
+  background-color: black;
+  border-color: gray;
+  border-style: solid;
+  border-width: 6px;
+  margin-left: 26%;
+  position: absolute;
+  font-size: 220%;
+}
+
+#employee-box {
+  display: inline-block;
+  background-color: black;
+  border-color: gray;
+  border-style: solid;
+  border-width: 12px;
+  margin-left: 30%;
+  margin-right: 30%;
+  font-size: 220%;
+}
+
+li {
+  border-style: solid;
+  border-color: gray;
+  border-left: 0;
+  border-right: 0;
+  border-top: 6px;
+}
+
+#button-container-employee-left {
+  background-color: black;
+  border-color: gray;
+  border-style: solid;
+  border-width: 6px;
+  margin-left: 26%;
+  padding: 2%;
+  text-align: center; 
+  display: inline-block;
+  max-height: 50px;
+  max-width: 500px;
+  position: absolute;
+}
+
+#button-container-employee-right {
+  background-color: black;
+  border-color: gray;
+  border-style: solid;
+  border-width: 6px;
+  margin-left: 56%;
+  padding: 2%;
+  text-align: center;
+  display: inline-block;
+  max-height: 50px;
+  max-width: 160px;
+  position: absolute;
+}
+
+#request-button, #logout-button {
+  background-color: black;
+  border-color: black;
+  color: white;
+  padding: 0%, 2%, 2%, 2%;
+  font-family: Courier, monospace;
+  font-size: 250%;
+  font-weight: bold;
+}
+
+#request-button {
+  font-size: 260%;
+}
+
+#request-button:hover, #logout-button:hover {
+  font-size: 260%;
+  font-style: italic;
+}
+
+#request-button:active, #logout-button:active {
+  color: black;
+  background-color: white;
+}
