@@ -8,7 +8,7 @@
   margin-right: 25%;
   padding: 3%;
   text-align: left;
-  font-size: 220%;
+  font-size: 1.8vw;
 }
 
 input {
@@ -52,12 +52,11 @@ input {
   color: white;
   padding: 0%, 2%, 2%, 2%;
   font-family: Courier, monospace;
-  font-size: 250%;
+  font-size: 2vw;
   font-weight: bold;
 }
 
 #login-button:hover, #login-back-button:hover {
-  font-size: 300%;
   font-style: italic;
 }
 

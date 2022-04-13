@@ -4,7 +4,11 @@ body {
 }
 
 #content-box {
-  font-family: Courier, monospace;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+ul {
+  padding-left: 0;
 }
 
 li {
