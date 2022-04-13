@@ -1,6 +1,5 @@
 h3 {
-  font-size: 1.8vw;
-
+  font-size: 2vw;
 }
 
 #content-box {
@@ -16,7 +15,7 @@ h3 {
   margin-left: 24%;
   margin-right: 50%;
   padding-left: 2%;
-  height: 6vh;
+  height: 10vh;
 }
 
 img {
@@ -33,7 +32,7 @@ img {
   margin-left: 20%;
   font-size: 1.8vw;
   width: 52%;
-  height: 29vh;
+  height: 30vh;
   overflow-y: auto;
 }
 
@@ -47,7 +46,7 @@ li {
 
 #inner-text {
   padding-left: .5%;
-  vertical-align: 15px;
+  vertical-align: 25px;
   float: 0 auto;
 }
 
@@ -55,7 +54,7 @@ li {
   float: right;
 }
 
-#buttons-login {
+#buttons-employee {
   margin-top: -.5%;
 }
 
