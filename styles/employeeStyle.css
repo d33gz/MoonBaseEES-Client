@@ -1,5 +1,6 @@
 h3 {
-  font-size: 2vw;
+  font-size: 1.8vw;
+
 }
 
 #content-box {
@@ -12,22 +13,11 @@ h3 {
   border-style: solid;
   border-width: 6px;
   margin-top: 6%;
-  margin-left: 34%;
+  margin-left: 26%;
   margin-right: 50%;
+  padding-top: 0;
   padding-left: 2%;
 }
-
-/* #check-box {
-  display: inline-block;
-  background-color: black;
-  border-color: gray;
-  border-style: solid;
-  border-width: 12px;
-  margin-left: 26%;
-  position: absolute;
-  font-size: 2.5vw;
-  align-self: center;
-} */
 
 img {
   max-width: 100%;
@@ -39,10 +29,14 @@ img {
   background-color: black;
   border-color: gray;
   border-style: solid;
-  border-width: 12px;
-  margin-left: 30%;
-  margin-right: 30%;
-  font-size: 2.5vw;
+  border-width: 6px;
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-bottom: 0%;
+  font-size: 1.8vw;
+  width: 40%;
+  height: 29vh;
+  overflow-y: auto;
 }
 
 li {
@@ -54,16 +48,25 @@ li {
 }
 
 #inner-text {
+  padding-left: .5%;
   vertical-align: 15px;
+  float: 0 auto;
 }
 
+#last-row {
+  float: right;
+}
+
+#buttons-login {
+  margin-top: -.5%;
+}
 
 #button-container-employee-left {
   background-color: black;
   border-color: gray;
   border-style: solid;
   border-width: 6px;
-  margin-left: 26%;
+  margin-left: 25%;
   padding: 2%;
   text-align: center; 
   display: inline-block;
@@ -77,7 +80,7 @@ li {
   border-color: gray;
   border-style: solid;
   border-width: 6px;
-  margin-left: 56%;
+  margin-left: 52%;
   padding: 2%;
   text-align: center;
   display: inline-block;
